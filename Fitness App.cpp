@@ -470,7 +470,6 @@ void my_account() {
 	}
 }
 
-
 //calorie intake (2)
 void calorie_intake() {
 	string food;
